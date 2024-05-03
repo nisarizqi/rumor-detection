@@ -1,0 +1,30 @@
+Kelompok 3
+M0521031 - Hilda Nur Alfiana
+M0521043 - Maharani Ria Sina
+M0521062 - Putri Rizqi Khairunnisa
+
+1. Proses Pengumpulan Data
+   - Tanggal mulai : 6 November 2023
+   - Tanggal berakhir : 29 Februari 2024
+   - Rujukan tanggal mulai pengumpulan data : https://bit.ly/4a12OnW
+   - Scraping data Twitter dilakukan menggunakan Tweet-Harvest dan Python untuk cleaning data. 
+   - Didapatkan sebanyak 1684 data
+
+2. Kata kunci yang digunakan
+   - wolbachia
+   - nyamuk wolbachia
+   - nyamuk pemerintah
+   - nyamuk wolbachia pandemi
+   - wolbachia pandemi
+   - dbd wolbachia
+
+3. Verifikasi Data
+   - Artikel rujukan verifikasi data : https://bit.ly/3VbuUc8
+
+4. Hasil Labelling Data
+   - Setelah dilakukan labelling terhadap 1684 data, didapat data Fact sebanyak 730, data Fake sebanyak 271, dan data Unverified sebanyak 683 data.
+   - Data yang dapat digunakan menjadi dataset adalah sebanyak 1001 data (dari data dengan label Fact & Fake)
+   Berikut adalah keterangan jenis data : 
+   - Fact = tweet merupakan fakta
+   - Fake = tweet merupakan berita palsu
+   - Unverified = tweet tidak dapat diverifikasi menjadi fakta atau berita palsu
